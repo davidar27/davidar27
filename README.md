@@ -80,7 +80,7 @@
 <div align="center">
 
 <a href="https://github.com/davidar27/">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidar27&theme=dark&show_icons=true&hide_border=false&count_private=true" width ="450px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=davidar27&theme=dark&show_icons=true&hide_border=false&count_private=false" width ="450px"/>
 
   <br>
 
